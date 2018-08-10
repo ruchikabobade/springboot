@@ -1,0 +1,54 @@
+create new app
+npx create-react-app <app name>
+
+to compile the app
+cd <app name>
+npm start
+
+
+react scripts use webpack.
+webpack? -> webpack.org
+
+
+routing
+npm install react-router-dom --save
+
+restful apis in react- axios
+npm install axios --save
+
+json server
+npm install -g json-server
+
+
+react with axios for http calls
+https://www.youtube.com/watch?v=M-X0Jw2e68A
+
+
+hook methods?
+
+https://github.com/selvaonp1/movie-fun-microservice
+
+
+component->disapatch(action)->store->reducer->update state->send props to component as updated state
+
+acloud guru
+firewall
+
+https://medium.com/@riveryang/react-redux-tutorial-for-beginners-2018-with-cutting-edge-versions-of-simple-examples-f1b20e93bdf6
+https://github.com/zhengyangca/React-Redux-Tutorial-for-beginner-2018
+
+https://www.valentinog.com/blog/react-redux-tutorial-beginners/
+https://medium.com/netscape/testing-a-react-redux-app-using-jest-and-enzyme-b349324803a9
+
+https://reactjs.org/docs/thinking-in-react.html
+https://medium.com/@gustavo.ponce.ch/spring-boot-restful-junit-mockito-hamcrest-eclemma-5add7f725d4e
+
+
+https://stackoverflow.com/questions/36367648/handling-api-calls-in-redux-with-axios
+https://x-team.com/blog/react-redux-api-axios/
+https://www.davidmeents.com/manage-state-connect-to-api-redux-axios/
+https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f
+
+
+https://www.youtube.com/watch?v=TSAw5f8mOQs&index=3&list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a&pbjreload=10 
+call dispatch for display customers in component did mount!!!!!

@@ -1,0 +1,16 @@
+ <proxies>
+    <!-- proxy
+     | Specification for one proxy, to be used in connecting to the network.
+     |-->
+    <proxy>
+      <id>optional</id>
+      <active>true</active>
+      <protocol>http</protocol>
+      <username>681036</username>
+      <password>btsrocks@716</password>
+      <host>proxy.cognizant.com</host>
+      <port>6050</port>
+      <nonProxyHosts>127.0.0.1|http://localhost</nonProxyHosts>
+    </proxy>
+    
+  </proxies>

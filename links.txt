@@ -1,0 +1,39 @@
+https://spring.io/blog/2007/01/25/why-the-name-aceg
+spring security-
+https://www.youtube.com/watch?v=k32KqrckLEE
+
+spring boot tutorial
+http://www.springboottutorial.com/spring-boot-with-embedded-servers-tomcat-jetty
+
+thymeleaf vs jsp
+https://stackoverflow.com/questions/41019274/difference-between-spring-jsp-mvc-and-thymeleaf-mvc
+
+trainer praful github repo
+github.com/prafful/springcore
+
+kotlin
+https://github.com/JetBrains/kotlin/releases/tag/v1.2.21
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-number/index.html
+https://tutorialwing.com/labeled-break-in-kotlin-example/
+https://www.programiz.com/kotlin-programming/interfaces
+
+kotlin spring boot
+http://www.javainterviewpoint.com/spring-boot-kotlin-hello-world/
+https://www.youtube.com/watch?v=30wfb-zOSEk
+https://github.com/TechPrimers/kotlin-learning-spring-boot-example/blob/master/pom.xml
+http://www.javainterviewpoint.com/spring-boot-kotling-restful-web-services/
+
+
+kotlin microservices
+https://www.youtube.com/watch?v=rlS9eH5tEnY
+
+
+Static code analysis
+Security OWASP violations
+Agile Scrum kumban
+performance testing selenium security regression 
+PAS SAS Jenkins
+PWD
+HPFC
+PCF
+12 factor principles

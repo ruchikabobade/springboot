@@ -1,0 +1,11 @@
+CorrelationId: 0564f769-f16c-4c41-870f-8cbb9ebe7240
+UTC DateTime: 7/16/2018 6:39:45 AM
+
+The following files/folders have not been downloaded
+1. Servers/.project
+2. Servers/Tomcat v8.0 Server at localhost-config/catalina.policy
+3. Servers/Tomcat v8.0 Server at localhost-config/catalina.properties
+4. Servers/Tomcat v8.0 Server at localhost-config/context.xml
+5. Servers/Tomcat v8.0 Server at localhost-config/server.xml
+6. Servers/Tomcat v8.0 Server at localhost-config/tomcat-users.xml
+7. Servers/Tomcat v8.0 Server at localhost-config/web.xml

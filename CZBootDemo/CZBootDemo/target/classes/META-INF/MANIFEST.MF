@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CZBootDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 681036
+Implementation-Vendor-Id: cz.boot.demo
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CZBootDemo
+Created-By: Maven Integration for Eclipse
+

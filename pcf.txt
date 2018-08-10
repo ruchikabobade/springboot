@@ -1,0 +1,25 @@
+purpose of load balancer-to distribute the load
+different algorithms of load balancer- round robbin, first in first out etc sticky session?
+web server technologies in java
+redis cache- tomcat cache
+application session data - cache
+stateless vs statefull?
+method stack vs heap
+sticky session- requests are forwarded to same server
+OAuth 2.0
+aws- availability zones
+cloud front server
+web cache
+java 8 features- stream api, concurrency, multithreading, exception handling, lambda expression, regular expressions
+sonarlint
+aws lambda
+CI CD
+oodesign.com
+svn?
+serverless code
+orchestrator as choreographer
+read about microservices!!!!!!
+
+massl
+crudstore
+
